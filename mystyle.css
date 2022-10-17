@@ -1,0 +1,57 @@
+/*global*/
+body{
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+}
+h1{
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(20, 155, 132), 0 0 1em blue, 0 0 0.2em blue;
+    font-weight: 300;
+    font-size: xx-large;
+    text-decoration: overline;
+    background-color: rgba(75, 147, 168, 0.568);
+    color: rgb(0, 0, 0);
+}
+h2{
+    text-align:center;
+    color:lightgreen
+
+}
+
+
+/*utilities*/
+.btn{
+    display: block;
+    background-color:rgb(36, 35, 37) ;
+    font-size: 16px;
+    text-align: center;
+    margin: 10px;
+    padding:8px;
+    border-radius:5px;
+    
+}
+.btn-small{
+    font-size: 14px;
+    width:150px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+/*header*/
+.classy{
+    text-transform:uppercase;
+    color:yellow;
+    text-align: center;
+}
+.classy1{
+    text-transform:uppercase;
+    text-align: center;
+}
+/*main*/
+
+.center{
+    text-align: center;
+}
+
